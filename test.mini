@@ -1,0 +1,11 @@
+var x=10;
+var y=20;
+print(x);
+if(x>y)
+{
+    print("greater");
+}
+else
+{
+    print("smaller");
+}
